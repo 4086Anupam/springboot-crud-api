@@ -11,12 +11,14 @@ Delete records
 Proper use of HTTP methods (GET, POST, PUT, DELETE)
 
 🧩 Project Structure :- 
+<br>
 Controller → Handles incoming HTTP requests
 Service → Contains business logic
 Repository → Interacts with database
 Entity → Represents database table
 
 🔗 API Endpoints :-
+<br>
 Method	Endpoint	Description
 POST	/users	Create user
 GET	/users	Get all users
@@ -25,6 +27,7 @@ PUT	/users/{id}	Update user
 DELETE	/users/{id}	Delete user
 
 🎯 Learning Outcome :- 
+<br>
 Understanding of REST API design
 Implementation of layered architecture
 Hands-on experience with Spring Boot and JPA
